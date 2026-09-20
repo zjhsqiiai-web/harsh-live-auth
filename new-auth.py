@@ -39,7 +39,7 @@ GLOBAL_GCNC_ALL_TASKS = {}
 
 # 2. Extract configuration constants
 PREFIX = "^"
-MAIN_OWNER = 1542849467533758478
+MAIN_OWNER = 1491097901475168439
 AUTHORIZED_USERS = []
 # ⚡ FAST BOOT TOGGLE: 
 # Set to TRUE for instant local testing (1s delay).
